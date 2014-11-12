@@ -1,0 +1,23 @@
+body {
+		margin-left:100px;
+		margin-top: 250px;
+		text-align:left;
+		background:url("../assets/stripes.png"),url("../assets/background.jpg");
+		background-repeat:repeat-x, no-repeat;
+		font-family:helvetica;
+}
+
+hr  {
+	margin:0;
+	border:0;
+	background-color:red;
+	width:50px;
+	height:1px;
+}
+
+p {
+	font-size:20px;
+	color:white;
+	font-weight:normal;
+}
+
