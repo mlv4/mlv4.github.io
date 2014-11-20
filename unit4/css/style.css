@@ -5,22 +5,33 @@ body {
 }
 
 h1 {
+	margin-bottom: 120px;
 	font-family:'Bilbo',cursive;
 	color: white;
 	font-size:72px;
 }
 
 h2 {
-	font-family:helvetica;
+	margin-bottom:120px;
+	font-size:44.5px;
+	font-family:'Bilbo',cursive;
 }
 
-p#go {
-	font-family:Helvetica
-	font-size:24px;
-	color:white;
+img {
+	margin-bottom:50px;
 }
 
 p {
-	font-family:'Bilbo',cursive;
-	font-size:28px;
+	margin-bottom:40px;
+	font-family:Helvetica;
+	font-size:24px;
 }
+
+p#go {
+	color:white;
+}
+p#close {
+	font-family:'Bilbo',cursive;
+	font-size:36px;
+}
+
